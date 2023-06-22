@@ -1,4 +1,5 @@
-#E-Vaccinatiosn Application
+E-Vaccinatiosn Application
+
 The E-Vaccination Application is a Java-based application that facilitates the management and tracking of vaccination records for individuals. It provides functionality for users to register, schedule vaccination appointments, and keep track of their vaccination history.
 
 Features
